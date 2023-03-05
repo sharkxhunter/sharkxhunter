@@ -4,10 +4,10 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
 
 - 🔭 I’m currently working on my ideas and Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
+- 😄 I'm familiar with Smart Contracts(solidity), DeFi, NFT, especially cryptograph.
+- ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 - 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, React, API design and Blockachain technology.
 - 📫 How to reach me: devking877@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -28,6 +28,7 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
