@@ -5,7 +5,6 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
 - 😄 I'm familiar with Smart Contracts(solidity), DeFi, NFT, especially cryptograph.
 - ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 - 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, React, API design and Blockachain technology.
-- 📫 How to reach me: devking877@gmail.com
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -67,10 +66,3 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/devking877/devking877/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/benji__price
-[2]: https://github.com/devking877
-[3]: https://www.linkedin.com/in/devking877-595046156/
