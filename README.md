@@ -1,5 +1,3 @@
-### Hi, I'm Dev King 👋
-
 I’m a senior full-stack developer and Blockchain Engineering, I am also an Open Source contributor. I love writing JavaScript, Typescript and Python. I work as a backend engineer building large scale distributed systems. I'm also familiar with frontend coding with Reactjs, Vuejs, and Angular. I'm always open to collaborating on projects and innovative ideas.
 
 - 🔭 I’m currently working on my ideas and Exploring blockchain technologies.
