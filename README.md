@@ -10,7 +10,7 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&Color=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Hardhat-informational?style=flat&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&Color=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
