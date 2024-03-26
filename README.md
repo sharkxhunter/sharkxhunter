@@ -2,7 +2,7 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
 
 - 🔭 I’m currently working on my ideas and Exploring blockchain technologies-EVM Chains and Solana network.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
-- 😄 I'm familiar with Smart Contracts(solidity), DeFi, NFT, especially cryptograph.
+- 😄 I'm familiar with Smart Contracts(solidity), Solana Program(Rust, Anchor Framework) and integration.
 - ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 - 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, React, API design and Blockachain technology.
 
