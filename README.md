@@ -44,7 +44,7 @@ I’m a senior full-stack developer and Blockchain Engineering, I am also an Ope
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devking877&hide=html,tex&layout=compact" />
 </a>
 <a href="https://github.com/devking877/devking877">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devking877&count_private=true&show_icons=true&include_all_commits=true" alt="Mariano's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devking877&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 <!-- ## 🏆 GitHub Trophies-->
