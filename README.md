@@ -1,8 +1,13 @@
-I’m a senior full-stack developer and Blockchain Engineering. I love writing JavaScript, Typescript, Node.js, Python, Solidity and Rust. I work as a backend engineer building large scale distributed systems. I'm also familiar with frontend coding with Reactjs, Nextjs, Vuejs, and Angular. I'm always open to collaborating on projects and innovative ideas.
+I’m a senior full-stack web3 developer.
+I like to build & contribute in ui/ux, frontend, dapps, bots and AI.
+I love writing programs in JavaScript, Typescript, Node.js, Python, Solidity, Rust, Func, etc.
+My working range includes whole networks - Bitcoin, EVM chains, Solana, TON, Cosmos, etc
+I'm always open to collaborating on projects and innovative ideas.
+I'm quick learner - and currently learning and acting in AI spaces.
 
-- 🔭 I’m currently working on my ideas and Exploring blockchain technologies-EVM Chains and Solana network.
-- 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
-- 😄 I'm familiar with Smart Contracts(solidity), Solana Program(Rust, Anchor Framework) and integration.
+- 🔭 I’m currently working on my ideas and exploring blockchain technologies-Bitcoin, EVM Chains, Solana and TON.
+- 👯 I’m looking to collaborate on any blockchain & AI projects
+- 😄 I'm familiar with solidity, rust, func, tact for smart contracts.
 - ⚡ Fun fact: I love space technology, building stuffs, watching animes, and reading how things work.
 - 💬 Ask me about Backend development, distributed systems, JavaScript, TypeScript, Nodejs, React, API design and Blockachain technology.
 
