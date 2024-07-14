@@ -46,19 +46,19 @@ I'm quick learner - and currently learning and acting in AI spaces.
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/devking877/devking877">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devking877&hide=html,tex&layout=compact" />
+<a href="https://github.com/sharkxhunter/sharkxhunter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkxhunter&hide=html,tex&layout=compact" />
 </a>
-<a href="https://github.com/devking877/devking877">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devking877&count_private=true&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/sharkxhunter/sharkxhunter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sharkxhunter&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 <!-- ## 🏆 GitHub Trophies-->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=devking877&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sharkxhunter&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devking877.devking877)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sharkxhunter.sharkxhunter)
 
 <!-- links to social media icons -->
 
@@ -71,4 +71,4 @@ I'm quick learner - and currently learning and acting in AI spaces.
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/devking877/devking877/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/sharkxhunter/sharkxhunter/master/linkedin-3-16.png (LinkedIn icon without padding)
